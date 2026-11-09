@@ -1,6 +1,6 @@
 # From Counterfactual Edits to Human Narratives
 
-Code for the paper **From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations**.
+Code and data for the paper **From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations** ([website](https://cahlik.net/from-counterfactual-edits-to-human-narratives-paper/), [ACM Digital Library](https://doi.org/10.1145/3799682.3839968), [PDF](https://dl.acm.org/doi/pdf/10.1145/3799682.3839968)).
 
 The repository turns recommender-system counterfactual edit lists into short natural-language explanations, then evaluates them with correctness, informativeness, and linguistic-quality metrics.
 
