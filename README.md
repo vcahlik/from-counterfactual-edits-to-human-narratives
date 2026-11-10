@@ -1,8 +1,20 @@
 # From Counterfactual Edits to Human Narratives
 
-Code and data for the paper **From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations** ([website](https://cahlik.net/from-counterfactual-edits-to-human-narratives-paper/), [ACM Digital Library](https://doi.org/10.1145/3799682.3839968), [PDF](https://dl.acm.org/doi/pdf/10.1145/3799682.3839968)).
+[![Paper](https://img.shields.io/badge/ACM_DL-CIKM'26-blue)](https://doi.org/10.1145/3799682.3839968)
+[![PDF](https://img.shields.io/badge/PDF-ACM-lightgrey)](https://dl.acm.org/doi/pdf/10.1145/3799682.3839968)
+[![Project page](https://img.shields.io/badge/Project-page-green)](https://cahlik.net/from-counterfactual-edits-to-human-narratives-paper/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-The repository turns recommender-system counterfactual edit lists into short natural-language explanations, then evaluates them with correctness, informativeness, and linguistic-quality metrics.
+Code and data for the CIKM 2026 paper **From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations**.
+
+**TL;DR:** Counterfactual explanations (CFXs) for recommender systems identify past
+interactions whose removal would change the recommendation, but they are often dozens of
+items long and hard for users to interpret. We use an LLM to summarize the contrast between
+the CFX interactions and the rest of the user's history into concise natural language
+explanations, optimize it with Direct Preference Optimization (DPO), and
+evaluate the summaries with human-calibrated metrics.
+
+![Overview of our methodology](assets/overview.png)
 
 ## Setup
 
