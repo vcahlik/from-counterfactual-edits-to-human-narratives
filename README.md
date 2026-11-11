@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/ACM_DL-CIKM'26-blue)](https://doi.org/10.1145/3799682.3839968)
 [![PDF](https://img.shields.io/badge/PDF-ACM-lightgrey)](https://dl.acm.org/doi/pdf/10.1145/3799682.3839968)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.13914-b31b1b)](https://arxiv.org/abs/2611.13914)
 [![Project page](https://img.shields.io/badge/Project-page-green)](https://cahlik.net/from-counterfactual-edits-to-human-narratives-paper/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
